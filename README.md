@@ -1,8 +1,9 @@
-## Olá, como vai?! Eu sou o Leonardo 👋
+## Nice to meet you, my name is Leonardo 👋
 
-- 🔭 Back-End Developer
-- 🌱 Estudando Java/Spring-Boot
-- 📈 Diretor de Soluções e Modelos de Negócio na @InfoJr
+- 🔭 Back-End Developer | PL/SQL | Oracle DataBase
+- 🎓 Computer Science student at São Paulo State University
+- 🌱 Learning Java/Spring-Boot
+- 📈 Director of Solutions and Business Models at @InfoJr
 - 📫 leohean_cardoso@hotmail.com
 
 ###
