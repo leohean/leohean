@@ -4,7 +4,7 @@
 - 🎓 Computer Science student at São Paulo State University
 - 🌱 Learning Java/Spring-Boot
 - 📈 Director of Solutions and Business Models at @InfoJr
-- 📫 leohean_cardoso@hotmail.com
+- 📫 leohean.cardoso@gmail.com
 
 ###
 
