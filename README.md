@@ -1,9 +1,8 @@
 ## Nice to meet you, my name is Leonardo 👋
 
-- 🔭 Back-End Developer | PL/SQL | Oracle DataBase
+- 🔭 Back-End Developer | Java/Spring | Oracle DataBase | Flyway
 - 🎓 Computer Science student at São Paulo State University
-- 🌱 Learning Java/Spring-Boot
-- 📈 Director of Solutions and Business Models at @InfoJr
+- 📈 Ex-director of Solutions and Business Models at @InfoJr
 - 📫 leohean.cardoso@gmail.com
 
 ###
